@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Algorithm"
+locale                   : "ko"
+title                    : "컴퓨터 알고리즘"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Taeseong"
-description              : "An amazing website."
+name                     : "최태성"
+description              : "인천대학교 정보통신공학과 20학번"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TaeseongChoi/TaeseongChoi.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taeseong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "최태성"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "인천대학교 정보통신공학과 20학번"
+  location         : "Seoul,korea"
+  email            : "watis123@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
